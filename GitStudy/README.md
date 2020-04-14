@@ -1,2 +1,0 @@
-# GitStudy
-learn git again.
